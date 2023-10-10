@@ -1,4 +1,5 @@
 hello, git!
 hello world!
+hello friends!
 hola mi amigo!
 
